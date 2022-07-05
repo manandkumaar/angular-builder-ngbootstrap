@@ -37,7 +37,7 @@ import { ModalComponent } from './components/modal.component';
     FormsModule,
     AppRoutingModule,
     NgbModule,
-    BuilderModule.forRoot('1ca9a27ac5dc472da10ca7fd3ef2afd7'),
+    BuilderModule.forRoot('5878c3a90f4f4259830a7c739ecdfc3c'),
   ],
   providers: [],
   bootstrap: [AppComponent],
